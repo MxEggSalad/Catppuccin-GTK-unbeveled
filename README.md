@@ -1,26 +1,8 @@
-<h1 align="center">Catppuccin GTK Theme</h1>
-
-<p align="center">
-  <img alt"Linux Logo" = src="https://img.shields.io/badge/OS-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=yelow"/>
-  <img alt"CSS Logo" src="https://img.shields.io/badge/Style-CSS-blue?style=for-the-badge&logo=css3&logoColor=blue"/>
-  <img alt"GitHub Stars" src="https://img.shields.io/github/stars/Fausto-Korpsvart/Catppuccin-GTK-Theme?&style=for-the-badge&logoColor=red" />
-  <img alt"GitHub Forks" src="https://img.shields.io/github/forks/Fausto-Korpsvart/Catppuccin-GTK-Theme?style=for-the-badge" />
-  <img alt"GitHub Issues" src="https://img.shields.io/github/issues/Fausto-Korpsvart/Catppuccin-GTK-Theme?style=for-the-badge" />
-  <img alt"GNU License" src='https://img.shields.io/github/license/Fausto-Korpsvart/Catppuccin-GTK-Theme?style=for-the-badge&logo=GNU&label=License&color=bd0000&logoColor=white'/>
-</p>
+<h1 align="center">Catppuccin GTK Unbeveled</h1>
 
 > [!NOTE]
-> Description
-> A GTK theme based on the colours of [Catppuccin Community](https://github.com/catppuccin) great theme: [Catppuccin for Neovim](https://github.com/catppuccin),
-> the [VinceLiuice's](https://github.com/vinceliuice) awesome: [Magnetic GTK theme](https://github.com/vinceliuice/Magnetic-gtk-theme),
-> and the creativity of [Gusbemacbe's](https://github.com/gusbemacbe): [Suru Plus Icon Theme](https://github.com/gusbemacbe/suru-plus).<br>
->
-> The theme is more focused on the Gnome Desktop, but supports Cinnamon, XFCE, Mate, etc. with generic styles.
-> It's great to combine in your TWMs like: XmonadWM, AwesomeWM, BSPWM, etc...
->
-> You can check **Reddit:** [r/unixporn](https://www.reddit.com/r/unixporn/) to get some ideas.
-
-![Catppuccin](https://raw.githubusercontent.com/Fausto-Korpsvart/Catppuccin-GTK-Theme/main/extra/screenshots/Catppuccin.png)
+> This is JUST the normal [Catppuccin GTK Theme](https://github.com/Fausto-Korpsvart/Catppuccin-GTK-Theme), just without bevels/corner radii because i dislike how they look
+> Some things might just *not* work outright
 
 ## INSTALLING THEMES
 

@@ -98,7 +98,7 @@
 
 	// Rename box styling in the icon view.
 	.nemo-window-pane widget.entry {
-		border-radius: $corner-radius / 2;
+		border-radius: $corner-radius;
 		background-color: $fill;
 
 		&:selected {

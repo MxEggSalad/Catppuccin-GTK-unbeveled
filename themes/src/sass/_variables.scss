@@ -13,12 +13,12 @@ $menuitem-size: if($compact == 'false', 28px, 24px);
 $root-font-size: if($compact == 'false', 14px, 13px);
 
 // Radiuses
-$window-radius: 12px;
-$modal-radius: 9px;
-$corner-radius: 12px;
+$window-radius: 0px;
+$modal-radius: 0px;
+$corner-radius: 0px;
 $menu-radius: $corner-radius;
 $menuitem-radius: $menu-radius;
-$circular-radius: 9999px;
+$circular-radius: 0px;
 
 // Durations
 $duration: 75ms;
